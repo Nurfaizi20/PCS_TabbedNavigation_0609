@@ -37,8 +37,8 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
                 break;
         }
         return  fragment;
-    }
 
+    }
 
     @Nullable
     @Override

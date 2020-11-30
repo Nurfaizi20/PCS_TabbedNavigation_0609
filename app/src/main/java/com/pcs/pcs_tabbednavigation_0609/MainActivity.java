@@ -35,6 +35,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent mIntent = new Intent(Settings.ACTION_LOCALE_SETTINGS);
                 startActivity(mIntent);
+
+
+
             }
         });
     }
